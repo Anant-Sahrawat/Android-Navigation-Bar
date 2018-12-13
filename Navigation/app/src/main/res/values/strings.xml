@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="welcome">Welcome !!!</string>
+    <string name="Nav_info">Click on Navigation bar button to choose the Graphic Card</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="header">Graphic Cards</string>
+    <string name="rtx2070">RTX 2070</string>
+    <string name="rtx2080">RTX2080</string>
+    <string name="rtx2080ti">RTX2080TI</string>
+    <string name="rtx2070_desc">The factory overclocked GeForce RTX 2070 Founders Edition graphics card features a next-gen 6-phase power supply for maximum overclocking and dual-axial 13-blade fans coupled with a new vapor chamber for ultra-cool and quiet performance.</string>
+    <string name="rtx2080_desc">The factory overclocked GeForce RTX 2080 Founders Edition graphics card features a next-gen 8-phase power supply for maximum overclocking and dual-axial 13-blade fans coupled with a new vapor chamber for ultra-cool and quiet performance.</string>
+    <string name="rtx2080ti_desc">The factory overclocked GeForce RTX 2080 Ti Founders Edition graphics card features a next-gen 13-phase power supply for maximum overclocking and dual-axial 13-blade fans coupled with a new vapor chamber for ultra-cool and quiet performance.</string>
+</resources>

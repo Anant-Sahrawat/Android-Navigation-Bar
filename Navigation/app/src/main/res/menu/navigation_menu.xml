@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@mipmap/home"
+        android:title="HOME" />
+
+    <item android:id="@+id/RTX2070"
+        android:icon="@mipmap/nvidia"
+        android:title="RTX 2070" />
+
+    <item android:id="@+id/RTX2080"
+        android:icon="@mipmap/nvidia"
+        android:title="RTX 2080" />
+
+    <item android:id="@+id/RTX2080TI"
+        android:icon="@mipmap/nvidia"
+        android:title="RTX 2080TI" />
+
+</menu>
